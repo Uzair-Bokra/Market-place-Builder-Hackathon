@@ -143,7 +143,7 @@ export default function Navbar() {
                 </span>
               )}
             </Link>
-            <Link href="/signup">
+            <Link href="/Sign_up">
               <FaUserAlt size={20} className="text-white" />
             </Link>
           </div>
