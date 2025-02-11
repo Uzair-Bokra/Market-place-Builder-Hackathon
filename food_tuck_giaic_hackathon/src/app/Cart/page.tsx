@@ -21,7 +21,7 @@ interface CartItem {
     name: string;
     price: number;
     imageUrl: string;
-    quantity: number; // Defaults to 1, but always required here for calculations
+    quantity: number;
 }
 
 // ====================================================
